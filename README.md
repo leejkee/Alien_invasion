@@ -14,18 +14,18 @@ Via `pip`(a package manager for python library)(Official Recommanded)
 ```Power shell
 python3 -m pip install -U pygame --user
 ```
-### To see if it Works
+### To see if it works
 Run:
 ```shell
 python3 -m pygame.examples.aliens
 ```
 ## Image
 
-| **\\**          | **image**     |
-|:---------------:|:-------------:|
-|   Ships         | ships.png     |
-|   Aliens        | alien.png     |
-|   Other style   | jinx.png      |
+| **\\**          | **image**                                |
+|:---------------:|:----------------------------------------:|
+|   Ships         | <img src="images/ships.png" alt="ships"> |
+|   Aliens        | <img src="images/alien.png" alt="alien"> |
+|   Other style   | <img src="images/jinx.png" alt="jinx">   |
 
 ## Files
 | **File**                             | **Function**                         |
